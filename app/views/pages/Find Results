@@ -1,0 +1,10 @@
+Searching 108 files for "TODO"
+
+/Users/hcquach/code/hcquach/hafuru-coming-soon/app/views/layouts/application.html.erb:
+    4      <meta charset="UTF-8">
+    5      <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    6:     <title></title>
+    7      <%= csrf_meta_tags %>
+    8      <%= action_cable_meta_tag %>
+
+1 match in 1 file
